@@ -1,0 +1,11 @@
+{
+  "name": "redirector",
+  "description": "A small redirecting daemon.",
+  "repository": "https://github.com/xperimental/redirector",
+  "env": {
+    "DESTINATION": {
+      "description": "The destination location to redirect to. Supports Go templating.",
+      "value": "https://some.example.com{{.URL}}"
+    }
+  }
+}

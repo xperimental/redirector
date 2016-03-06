@@ -2,6 +2,8 @@
 
 A small HTTP service that serves redirects.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## Usage
 
 If you have a working Go installation you can get the binary by doing:
